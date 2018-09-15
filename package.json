@@ -1,0 +1,15 @@
+{
+  "name": "delayed-exec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Ozornin",
+  "license": "ISC",
+  "dependencies": {
+    "commands": "git+https://github.com/alexozornin/commands.git",
+    "node-async-stdin": "git+https://github.com/alexozornin/node-async-stdin.git"
+  }
+}
